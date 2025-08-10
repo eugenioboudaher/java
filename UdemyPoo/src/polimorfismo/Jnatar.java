@@ -7,6 +7,7 @@ public class Jnatar {
 		Arroz arroz = new Arroz(0.5);
 		Feijao feijao = new Feijao(0.3);
 		Sorvete sorvete = new Sorvete(1);
+
 		
 		convidado.comer(arroz);
 		convidado.comer(feijao);

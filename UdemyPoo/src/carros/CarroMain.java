@@ -11,7 +11,7 @@ public class CarroMain {
 		voyage.acelerar();
 		System.out.println(voyage.velocidadeAtual);
 
-		voyage.ligarAr();
+
 		voyage.ligarTurbo();
 		voyage.acelerar();
 		System.out.println(voyage.velocidadeAtual);
