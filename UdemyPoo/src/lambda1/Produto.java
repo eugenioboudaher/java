@@ -21,6 +21,10 @@ public class Produto {
 				this.desDouble, this.priceFinalDouble);
 	}
 	
+	public double getFinalPrice () {
+		return this.priceFinalDouble;
+	}
+	
 	
 	
 }
